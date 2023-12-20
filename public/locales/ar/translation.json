@@ -1,0 +1,15 @@
+{
+	"hello world": "أهلا بالعالم",
+	"Jenin": "جنين",
+	"min": "الصغرى",
+	"max": "الكبرى",
+	"rain":"مطر",
+	"light rain": "أمطار متوسطة",
+	"clear sky": "سماء صافية",
+	"few clouds": "سحب متوسطة",
+	"overcast clouds":"ملبدة بالغيوم",
+	"thunderstorm":"عاصفة رعدية",
+	"shower rain":"امطار خفيفة",
+	"broken clouds":"غيوم متقطعة",
+	"scattered clouds":"غيوم متفرقة"
+}
